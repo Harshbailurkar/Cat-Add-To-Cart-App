@@ -2,7 +2,7 @@
 
 visit: https://add-to-cart-harshbailurkar.netlify.app/
 <br>
-Add to cart app
+## Add to cart app Using HTML,CSS,Javascript,Firebase
 <table>
   <tr>
     <td> <img src= "https://github.com/Harshbailurkar/Cat-Add-To-Cart-App/assets/113308692/df7a9cc6-0f3f-4e71-9cb3-6df9158d1df7" width=300 height=400 ></td>
